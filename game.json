@@ -4,6 +4,6 @@
   "category": "Classics",
   "description": "The classic. Three in a row wins.",
   "summary": "Two players take turns marking squares on a 3×3 grid. The first to get three in a row, across, down or diagonally, wins. If the board fills with no line, it's a draw.",
-  "thumbnail": "thumbnail.svg",
+  "thumbnail": "thumbnail.jpg",
   "color": "#2b2b6b"
 }
