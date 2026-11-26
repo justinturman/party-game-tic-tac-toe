@@ -5,5 +5,6 @@
   "description": "The classic. Three in a row wins.",
   "summary": "Two players take turns marking squares on a 3×3 grid. The first to get three in a row, across, down or diagonally, wins. If the board fills with no line, it's a draw.",
   "thumbnail": "thumbnail.jpg",
-  "color": "#2b2b6b"
+  "color": "#2b2b6b",
+    "help": "Tic-Tac-Toe is for two players.\n\nTake turns tapping an empty square on your own phone. The first player to get three of their symbol in a row, across, down or diagonally, wins.\n\nIf the board fills up with no line, it's a draw."
 }
